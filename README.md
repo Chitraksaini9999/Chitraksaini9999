@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I'm Chitrak
 
-<!--
-**Chitraksaini9999/Chitraksaini9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+🤖 Aspiring AI / Generative AI Developer
+💻 Full-Stack & Android Developer
 
-Here are some ideas to get you started:
+I build practical software and AI-powered applications
+that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+• Generative AI
+• RAG
+• LLM applications
+• React
+• Kotlin / Jetpack Compose
+• Backend development
+
+Tech Stack
+Python | JavaScript | TypeScript | C
+React | Kotlin | Jetpack Compose
+FastAPI | REST APIs
+Git | GitHub
+
+🚀 Featured Projects
+
+Nexus Hub
+AI Tool 2.0
+DecodeLabs Internship
+[Your upcoming RAG project]
+
+📫 Connect with me
+LinkedIn | GitHub | Instagram | email 
